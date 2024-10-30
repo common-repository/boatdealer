@@ -1,0 +1,1091 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: boatdealer\n"
+"POT-Creation-Date: 2019-01-25 17:09-0000\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: \n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.11\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: f:/wordpress/boatdealer/trunk\n"
+"X-Poedit-SearchPath-1: f:/wordpress/boatdealer/trunk/includes/contact-form\n"
+
+#: f:/wordpress/boatdealer/trunk/dashboard/main.php:107
+msgid "Fields Table"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/dashboard/main.php:108
+msgid "Cars Table"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/dashboard/main.php:109
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:332
+#, fuzzy
+msgid "Models"
+msgstr "Model"
+
+#: f:/wordpress/boatdealer/trunk/dashboard/main.php:110
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:337
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:98
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-functions.php:48
+msgid "Features"
+msgstr "Aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/dashboard/main.php:111
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:319
+msgid "Team"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/dashboard/main.php:112
+msgid "Settings"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/contact-form/multi-contact-show-form.php:22
+#, fuzzy
+msgid "Request Information"
+msgstr " verzoek informatie"
+
+#: f:/wordpress/boatdealer/trunk/includes/contact-form/multi-contact-show-form.php:26
+#, fuzzy
+msgid "Your Name"
+msgstr "Naam"
+
+#: f:/wordpress/boatdealer/trunk/includes/contact-form/multi-contact-show-form.php:29
+#, fuzzy
+msgid "Please type your name"
+msgstr "type hier u naam a.u.b."
+
+#: f:/wordpress/boatdealer/trunk/includes/contact-form/multi-contact-show-form.php:32
+#, fuzzy
+msgid "Your Email"
+msgstr "jou email"
+
+#: f:/wordpress/boatdealer/trunk/includes/contact-form/multi-contact-show-form.php:35
+#, fuzzy
+msgid "Please type your email"
+msgstr "type hier u email a.u.b."
+
+#: f:/wordpress/boatdealer/trunk/includes/contact-form/multi-contact-show-form.php:39
+#, fuzzy
+msgid "Your Message"
+msgstr "jou bericht"
+
+#: f:/wordpress/boatdealer/trunk/includes/contact-form/multi-contact-show-form.php:41
+#, fuzzy
+msgid "Please type your message"
+msgstr "type hier je bericht a.u.b."
+
+#: f:/wordpress/boatdealer/trunk/includes/contact-form/multi-contact-show-form.php:47
+msgid "Send"
+msgstr "Zend"
+
+#: f:/wordpress/boatdealer/trunk/includes/contact-form/multi-contact-show-form.php:48
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/activated-manager.php:137
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback-last.php:104
+msgid "Hi, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/activated-manager.php:146
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback-last.php:111
+msgid "Thank You!"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/activated-manager.php:149
+msgid "Yes, Submit"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/activated-manager.php:151
+msgid "Skip"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback-last.php:103
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback-last.php:109
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback-last.php:113
+msgid "type here yours sugestions ..."
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback-last.php:115
+msgid "(In this case, we are unable to email you)"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback-last.php:117
+msgid "Yes, Submit and Deactivate"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback-last.php:119
+msgid "Cancel Deactivation"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback-last.php:120
+msgid "No, Just Deactivate it"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback.php:139
+msgid "Bill Minozzi"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback.php:143
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback.php:146
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback.php:148
+msgid "Rate or Share"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback.php:149
+msgid "No, dismiss"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback.php:150
+msgid "or"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/feedback/feedback.php:151
+msgid "Remind me later"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:604
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:616
+msgid "Extend standard plugin functionality with new great options."
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:610
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:622
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:628
+msgid "Make Your Website Look More Professional."
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:630
+msgid "It is time to upgrade your"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:733
+msgid "Close notice"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:744
+msgid "to"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:748
+msgid "version!"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:756
+msgid "Learn More"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:760
+msgid "Dismiss"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/functions/functions.php:816
+msgid "Dashboard"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:91
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:173
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:314
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:364
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:383
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:401
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:419
+msgid "Overview"
+msgstr "Overzicht"
+
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:97
+msgid "Import Demo Data"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:178
+#, fuzzy
+msgid "Field Types"
+msgstr "veld-types"
+
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:183
+#, fuzzy
+msgid "Add Fields Form"
+msgstr "voeg velden formulier"
+
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:188
+#, fuzzy
+msgid "Edit and Trash Fields"
+msgstr "berwerk en verwijder velden"
+
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:342
+#, fuzzy
+msgid "Edit and Trash Boats"
+msgstr "bewerk en verwijder boten"
+
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:347
+#, fuzzy
+msgid "Featured Images"
+msgstr "aanbevolen foto"
+
+#: f:/wordpress/boatdealer/trunk/includes/help/help.php:352
+#, fuzzy
+msgid "Images and Gallery"
+msgstr "foto gallerij"
+
+#: f:/wordpress/boatdealer/trunk/includes/multi/multi-functions.php:27
+#, fuzzy
+msgid "Order"
+msgstr "besteld bij"
+
+#: f:/wordpress/boatdealer/trunk/includes/multi/multi-functions.php:28
+msgid "Type Field"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/multi/multi-functions.php:29
+msgid "Label"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/multi/multi-functions.php:30
+#, fuzzy
+msgid "Search Bar"
+msgstr "Zoeken"
+
+#: f:/wordpress/boatdealer/trunk/includes/multi/multi-functions.php:31
+msgid "Widget"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:5
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:404
+#, fuzzy
+msgid "Featured"
+msgstr "Aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:6
+#, fuzzy
+msgid "Mark to show up at Featured Widget."
+msgstr "markeer om aanbevolen widget te laten zien"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:10
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:402
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:335
+msgid "Price"
+msgstr "Prijs"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:11
+#, fuzzy
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr "geen speciale karakters hier de plugin zal auto format de nummers"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:17
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:405
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:79
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-functions.php:110
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom.php:115
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom2.php:491
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:86
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:182
+msgid "Year"
+msgstr "Jaar"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:18
+#, fuzzy
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "de jaar of de productie alleen nummers geen punten of komma's"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:25
+#, fuzzy
+msgid "The amount of "
+msgstr "de totaal van"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:32
+#, fuzzy
+msgid "Engine HP. Only numbers, no point, no comma."
+msgstr "motor pk alleen nummers geen punten of komma's"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:38
+#, fuzzy
+msgid "The Condition of this boat . Only numbers, no point, no comma."
+msgstr "de jaar of de productie alleen nummers geen punten of komma's"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:42
+msgid "New"
+msgstr "Nieuw"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:43
+msgid "Used"
+msgstr "Gebruikt"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:44
+msgid "Damaged"
+msgstr "Beschadigd"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:61
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:62
+msgid "Fuel Type."
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:66
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:120
+msgid "Diesel"
+msgstr "Diesel"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:67
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:123
+msgid "Gasoline"
+msgstr "Benzine"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:68
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:126
+msgid "Hybrid"
+msgstr "Hybride"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:69
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:129
+msgid "Electric"
+msgstr "Electrisch"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:70
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:132
+msgid "Biodiesel"
+msgstr "Biodiesel"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:71
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:135
+msgid "CNG"
+msgstr "LPG"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:72
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:138
+msgid "Ethanol"
+msgstr "Ethanol"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:73
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:141
+msgid "Other"
+msgstr "Anders"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/meta-box.php:174
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-functions.php:14
+msgid "Details"
+msgstr "Details"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:12
+msgid "Boats"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:16
+msgid "Edit Cars"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:17
+#, fuzzy
+msgid "Search Cars"
+msgstr "Zoeken"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:49
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-functions.php:97
+msgid "Model"
+msgstr "Model"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:50
+#, fuzzy
+msgid "SearchModels"
+msgstr "Zoeken"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:51
+msgid "Popular Models"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:52
+#, fuzzy
+msgid "All Models"
+msgstr "Model"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:53
+#, fuzzy
+msgid "Parent Model"
+msgstr "hoofd model"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:54
+#, fuzzy
+msgid "Parent Model:"
+msgstr "hoofd team"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:55
+#, fuzzy
+msgid "Edit Model"
+msgstr "bewerk model"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:56
+#, fuzzy
+msgid "Update Model"
+msgstr "update model"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:57
+#, fuzzy
+msgid "Add New Model"
+msgstr "voeg toe nieuw model"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:58
+#, fuzzy
+msgid "New Model"
+msgstr "Model"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:59
+#, fuzzy
+msgid "Separate Model with commas"
+msgstr "scheid team met komma's"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:60
+#, fuzzy
+msgid "Add or Remove Model"
+msgstr "voeg toe of verwijder team"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:61
+#, fuzzy
+msgid "Choose from the most used Model"
+msgstr "kies van de meeste gebruikte makers"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:71
+#, fuzzy
+msgid "team"
+msgstr "nieuw team"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:73
+#, fuzzy
+msgid "Search team"
+msgstr "Zoeken"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:75
+msgid "All Team"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:76
+#, fuzzy
+msgid "Parent team"
+msgstr "hoofd team"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:77
+#, fuzzy
+msgid "Parent team:"
+msgstr "hoofd team"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:78
+#, fuzzy
+msgid "Edit team member"
+msgstr "bewerk team lid"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:79
+#, fuzzy
+msgid "Update team"
+msgstr " update team lid"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:80
+#, fuzzy
+msgid "Add New team member"
+msgstr "voeg toe nieuw team lid"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:81
+#, fuzzy
+msgid "New team"
+msgstr "nieuw team"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:82
+#, fuzzy
+msgid "Separate team with commas"
+msgstr "scheid team met komma's"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:83
+#, fuzzy
+msgid "Add or Remove team"
+msgstr "voeg toe of verwijder team"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:84
+#, fuzzy
+msgid "Choose from the most used makers"
+msgstr "kies van de meeste gebruikte makers"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:99
+#, fuzzy
+msgid "Search Features"
+msgstr "Zoeken"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:100
+#, fuzzy
+msgid "Popular Features"
+msgstr "Aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:101
+#, fuzzy
+msgid "All Features"
+msgstr "Aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:102
+#, fuzzy
+msgid "Parent Item Features"
+msgstr "hoofd aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:103
+#, fuzzy
+msgid "Parent Features"
+msgstr "hoofd aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:104
+#, fuzzy
+msgid "Edit Features"
+msgstr "bewerk aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:105
+#, fuzzy
+msgid "Update Features"
+msgstr "update aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:106
+#, fuzzy
+msgid "Add New Features"
+msgstr "voeg toe aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:107
+#, fuzzy
+msgid "New Features"
+msgstr "Aanbevolen"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:108
+#, fuzzy
+msgid "Separate Features with commas"
+msgstr "scheid model met komma's"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:109
+#, fuzzy
+msgid "Add or Remove Features"
+msgstr "voeg toe of verwijder team"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:110
+#, fuzzy
+msgid "Choose from the most used Features"
+msgstr "kies van de meeste gebruikte makers"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:147
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:236
+msgid "Order:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:149
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:239
+msgid "Order to display. For example: 1 (first), 2 (second) and so on ..."
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:152
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:244
+msgid "Profile Image:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:157
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:261
+msgid "Just click the Button to Select Upload Image"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:163
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:266
+#, fuzzy
+msgid "Position:"
+msgstr "Beschrijving"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:165
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:269
+msgid "For example: Sales Manager, Agent, and so on ..."
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:168
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:274
+msgid "Phone:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:172
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:281
+msgid "Email address:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:176
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:288
+msgid "Skype:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:180
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:295
+msgid "Facebook URL:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:184
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:302
+msgid "Twitter URL:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:188
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:309
+msgid "Linkedin URL:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:192
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:316
+msgid "Youtube URL:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:196
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:323
+msgid "Instagram URL:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:200
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:330
+msgid "Vimeo URL:"
+msgstr ""
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:403
+#, fuzzy
+msgid "Featured Image"
+msgstr "aanbevolen foto"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:432
+#, fuzzy
+msgid "Call For Price"
+msgstr "vraag om prijs"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:454
+#, fuzzy
+msgid "Name"
+msgstr "Naam"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:455
+#, fuzzy
+msgid "Description"
+msgstr "Beschrijving"
+
+#: f:/wordpress/boatdealer/trunk/includes/post-type/post-functions.php:456
+msgid "Slug"
+msgstr "Slug"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:16
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:361
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:259
+msgid "Search"
+msgstr "Zoeken"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:84
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:118
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:186
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:210
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:231
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:257
+msgid "Any"
+msgstr "Elke"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:112
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-functions.php:109
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom.php:116
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom2.php:493
+msgid "Fuel"
+msgstr "Brandstof"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:250
+#, fuzzy
+msgid "Order By"
+msgstr "besteld bij"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:259
+#, fuzzy
+msgid "Year newest first"
+msgstr "jaar nieuwste eerste"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:262
+#, fuzzy
+msgid "Year oldest first"
+msgstr "jaar oudste eerste"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:265
+#, fuzzy
+msgid "Price higher first"
+msgstr "prijs hoogste eerst"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:268
+#, fuzzy
+msgid "Price lower first"
+msgstr "prijs laagste eerst"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:273
+#, fuzzy
+msgid "Hours higher first"
+msgstr "uren hoogste eerst"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:276
+#, fuzzy
+msgid "Hours lower first"
+msgstr "uren laagste eerst"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:282
+#, fuzzy
+msgid "Mileage higher first"
+msgstr "kilometerstand hoogste eerst"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:285
+#, fuzzy
+msgid "Mileage lower first"
+msgstr "kilometerstand laagste eerst"
+
+#: f:/wordpress/boatdealer/trunk/includes/search/search-function.php:307
+#, fuzzy
+msgid "Price Range"
+msgstr "prijs hoogte"
+
+#: f:/wordpress/boatdealer/trunk/includes/team/team.php:114
+#, fuzzy
+msgid "No Team Member Added!"
+msgstr "geen team lid toegevoegd"
+
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-functions.php:83
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom.php:110
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom1.php:120
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom2.php:481
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom3.php:255
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:84
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:180
+#, fuzzy
+msgid "Call for Price"
+msgstr "vraag om prijs"
+
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-functions.php:112
+msgid "Cond"
+msgstr "Cond"
+
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-functions.php:113
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom.php:114
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom1.php:126
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom2.php:489
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom3.php:260
+msgid "HP"
+msgstr "PK"
+
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom.php:117
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom2.php:495
+msgid "Transmission"
+msgstr "Transmissie"
+
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom.php:142
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom1.php:181
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom2.php:539
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom3.php:308
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-single.php:37
+msgid "Back"
+msgstr "Terug"
+
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom.php:143
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom1.php:182
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom2.php:541
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom3.php:309
+msgid "Onward"
+msgstr "Doorgaan"
+
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom.php:153
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom1.php:192
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom2.php:559
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom3.php:318
+#, fuzzy
+msgid "Not Found !"
+msgstr "niet gevonden"
+
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom1.php:169
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-showroom3.php:299
+msgid "View"
+msgstr "Overzicht"
+
+#: f:/wordpress/boatdealer/trunk/includes/templates/template-single.php:51
+#, fuzzy
+msgid "Contact Us"
+msgstr "contact ons"
+
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:15
+#, fuzzy
+msgid "A list of Recent boats"
+msgstr "een lijst of recente boten"
+
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:41
+#, fuzzy
+msgid "New Arrivals"
+msgstr "nieuw binnen"
+
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:107
+#, fuzzy
+msgid "A list of Featured boat-s"
+msgstr "een lijst of aanbevolen boten"
+
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:131
+#, fuzzy
+msgid "Featured boats"
+msgstr "aanbevolen boten"
+
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:234
+#, fuzzy
+msgid "Search boats"
+msgstr "zoek boten"
+
+#: f:/wordpress/boatdealer/trunk/includes/widgets/widgets.php:246
+msgid "Title"
+msgstr "Titel"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:16
+#, fuzzy
+msgid "Choose your currency, metric system and so on."
+msgstr "kies jou valuta systeem en ga door"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:21
+msgid "Currency"
+msgstr "Valuta"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:40
+#, fuzzy
+msgid "Miles - Km - Hours"
+msgstr "Miles"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:42
+msgid "Miles"
+msgstr "Miles"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:43
+msgid "Kms"
+msgstr "Km"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:44
+msgid "Hours"
+msgstr "Uren"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:50
+#, fuzzy
+msgid "Liters - Gallons"
+msgstr "liters gallon"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:52
+msgid "Liters"
+msgstr "Liters"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:53
+msgid "Gallons"
+msgstr "Gallons"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:59
+#, fuzzy
+msgid "Feet - Meters"
+msgstr "voet meter"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:61
+msgid "Feet"
+msgstr "Voet"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:62
+msgid "Meters"
+msgstr "Meter"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:68
+#, fuzzy
+msgid "How many boats would you like to display per page?"
+msgstr "hoeveel boten wil je per pagina zien"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:92
+#, fuzzy
+msgid "Remove Sidebar from Search Result Page"
+msgstr "verwijder sidebar van zoek resultaten pagina"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:101
+#, fuzzy
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "vervang de wordpress gallery met flexslider gallery"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:110
+#, fuzzy
+msgid "Use thumbnails size 2:1 or 4:3 ?"
+msgstr "gebruik thumbnails grote 2-1 of 4-3"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:119
+#, fuzzy
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "schakel contact formulierin single product pagina aan"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:128
+#, fuzzy
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual boat page."
+msgstr ""
+"vul in je contact email adres om email te ontvangen van je contact formulier "
+"op de onderzijde van enkele boot pagina"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:133
+#, fuzzy
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr "in show room pagina gebruik gallery of list view template"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:140
+#, fuzzy
+msgid ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+msgstr ""
+"pas je zoek optie aan kies de velden om te laten zien op front end zoekbalk"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:145
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:184
+#, fuzzy
+msgid "Show the Fuel type control"
+msgstr "show de brandstof type control"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:154
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:193
+#, fuzzy
+msgid "Show the Year control"
+msgstr "show de jaar control"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:163
+#, fuzzy
+msgid "Show the Price slider"
+msgstr "show de prijs slider"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:172
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:211
+#, fuzzy
+msgid "Show the Order By Control"
+msgstr "show de order bij control"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:179
+#, fuzzy
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr "pas je zoek widget opties aan om te zien in de zoek widget"
+
+#: f:/wordpress/boatdealer/trunk/settings/options/plugin_options_tabbed.php:202
+#, fuzzy
+msgid "Show the Price control"
+msgstr "show de jaar control"
+
+#, fuzzy
+#~ msgid "Locations"
+#~ msgstr "Locatie"
+
+#~ msgid "Location"
+#~ msgstr "Locatie"
+
+#, fuzzy
+#~ msgid "The amount of Miles"
+#~ msgstr "de totaal van"
+
+#, fuzzy
+#~ msgid "Only numbers, no point, no comma."
+#~ msgstr "motor pk alleen nummers geen punten of komma's"
+
+#, fuzzy
+#~ msgid "Condition"
+#~ msgstr "Cond"
+
+#, fuzzy
+#~ msgid "Search makes"
+#~ msgstr "Zoeken"
+
+#, fuzzy
+#~ msgid "Search Locations"
+#~ msgstr "Locatie"
+
+#, fuzzy
+#~ msgid "All Locations"
+#~ msgstr "Locatie"
+
+#, fuzzy
+#~ msgid "Edit locations"
+#~ msgstr "Locatie"
+
+#, fuzzy
+#~ msgid "New locations"
+#~ msgstr "Locatie"
+
+#, fuzzy
+#~ msgid "Separate locations with commas"
+#~ msgstr "scheid aanbevolen met komma's"
+
+#, fuzzy
+#~ msgid "Choose from the most used locations"
+#~ msgstr "kies van de meeste gebruikte aanbevolen"
+
+#, fuzzy
+#~ msgid "Featured cars"
+#~ msgstr "Aanbevolen"
+
+#, fuzzy
+#~ msgid "Search cars"
+#~ msgstr "Zoeken"
+
+#, fuzzy
+#~ msgid "Show the Make control"
+#~ msgstr "show de jaar control"
+
+#~ msgid "your-name"
+#~ msgstr "je naam"
+
+#~ msgid "Agents"
+#~ msgstr "Agents"
+
+#~ msgid "featured-images"
+#~ msgstr "aanbevolen foto's"
+
+#~ msgid "the-amount-of-miles-on-this-car-only-numbers-no-point-no-comma"
+#~ msgstr "de totaal van miles op deze auto geen punten of komma's"
+
+#~ msgid "fuel-type"
+#~ msgstr "brandstof type"
+
+#~ msgid "parent-model-858478d0fd6844b56bee3b253317b109"
+#~ msgstr "hoofd model"
+
+#~ msgid "new-model"
+#~ msgstr "nieuw model"
+
+#~ msgid "add-or-remove-model"
+#~ msgstr "voeg toe of verwijder gebruikt model"
+
+#~ msgid "choose-from-the-most-used-model"
+#~ msgstr "kies van de meeste gebruikte model"
+
+#~ msgid "parent-team-e53c22ef4d0bee481e835f3d8c7214e9"
+#~ msgstr "hoofd team"
+
+#~ msgid "parent-features-93dbe1be0557b8595d8cf358fcf5c5ac"
+#~ msgstr "hoofd aanbevolen"
+
+#~ msgid "new-features"
+#~ msgstr "niew aanbevolen"
+
+#~ msgid "add-or-remove-features"
+#~ msgstr "voeg toe of verwijder aanbevolen"
+
+#~ msgid "call-for-price-1fd1b1bbdc1cf7563ba984764a3a4e14"
+#~ msgstr "vraag om prijs"
+
+#~ msgid "miles-km-hours"
+#~ msgstr "miles km uren"

@@ -1,0 +1,1052 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoatDealer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-20 13:14+0100\n"
+"PO-Revision-Date: 2020-05-20 13:15+0100\n"
+"Last-Translator: sergio minozzi\n"
+"Language-Team: English (USA)\n"
+"Language: en-US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz\n"
+"X-Loco-Source-Locale: en-US\n"
+"X-Loco-Project-Id: 91025\n"
+"X-Loco-Api-Version: 1.0.24 20200519-1"
+
+#: boatdealer.php:224 loco:5ec51f48c38e0f37eb169ce1
+msgid "Make"
+msgstr "Make"
+
+#: boatdealer.php:225 loco:5ec51f48c38e0f37eb169ce2
+msgid "Boat Type"
+msgstr "Boat Type"
+
+#: boatdealer.php:226 loco:5ec51f48c38e0f37eb169ce3
+msgid "Condition"
+msgstr "Condition"
+
+#: dashboard/main.php:103 loco:5ec51f48c38e0f37eb169ce4
+msgid "Fields Table"
+msgstr "Fields Table"
+
+#: dashboard/main.php:104 loco:5ec51f48c38e0f37eb169ce5
+msgid "Boats Table"
+msgstr "Boats Table"
+
+#: dashboard/main.php:105 includes/help/help.php:289
+#: loco:5ec51f48c38e0f37eb169ce6
+msgid "Models"
+msgstr "Models"
+
+#: dashboard/main.php:106 includes/help/help.php:294
+#: includes/post-type/post-functions.php:98
+#: includes/templates/template-functions.php:136 loco:5ec51f48c38e0f37eb169ce7
+msgid "Features"
+msgstr "Features"
+
+#: dashboard/main.php:107 includes/help/help.php:277
+#: loco:5ec51f48c38e0f37eb169ce8
+msgid "Team"
+msgstr "Team"
+
+#: dashboard/main.php:108 loco:5ec51f48c38e0f37eb169ce9
+msgid "Settings"
+msgstr "Settings"
+
+#: dashboard/memory.php:31 loco:5ec51f48c38e0f37eb169cea
+msgid "Update"
+msgstr "Update"
+
+#: dashboard/memory.php:32 includes/contact-form/multi-contact-show-form.php:48
+#: loco:5ec51f48c38e0f37eb169ceb
+msgid "Cancel"
+msgstr "Cancel"
+
+#: includes/contact-form/multi-contact-show-form.php:22
+#: loco:5ec51f48c38e0f37eb169cec
+msgid "Request Information"
+msgstr "Request Information"
+
+#: includes/contact-form/multi-contact-show-form.php:26
+#: loco:5ec51f48c38e0f37eb169ced
+msgid "Your Name"
+msgstr "Your Name"
+
+#: includes/contact-form/multi-contact-show-form.php:29
+#: loco:5ec51f48c38e0f37eb169cee
+msgid "Please type your name"
+msgstr "Please type your name"
+
+#: includes/contact-form/multi-contact-show-form.php:32
+#: loco:5ec51f48c38e0f37eb169cef
+msgid "Your Email"
+msgstr "Your Email"
+
+#: includes/contact-form/multi-contact-show-form.php:35
+#: loco:5ec51f48c38e0f37eb169cf0
+msgid "Please type your email"
+msgstr "Please type your email"
+
+#: includes/contact-form/multi-contact-show-form.php:39
+#: loco:5ec51f48c38e0f37eb169cf1
+msgid "Your Message"
+msgstr "Your Message"
+
+#: includes/contact-form/multi-contact-show-form.php:41
+#: loco:5ec51f48c38e0f37eb169cf2
+msgid "Please type your message"
+msgstr "Please type your message"
+
+#: includes/contact-form/multi-contact-show-form.php:47
+#: loco:5ec51f48c38e0f37eb169cf3
+msgid "Send"
+msgstr "Send"
+
+#: includes/feedback/activated-manager.php:137
+#: includes/feedback/feedback-last.php:104 loco:5ec51f48c38e0f37eb169cf4
+msgid "Hi, my name is Bill Minozzi, and I am developer of"
+msgstr "Hi, my name is Bill Minozzi, and I am developer of"
+
+#: includes/feedback/activated-manager.php:146
+#: includes/feedback/feedback-last.php:111 loco:5ec51f48c38e0f37eb169cf5
+msgid "Thank You!"
+msgstr "Thank You!"
+
+#: includes/feedback/activated-manager.php:149 loco:5ec51f48c38e0f37eb169cf6
+msgid "Yes, Submit"
+msgstr "Yes, Submit"
+
+#: includes/feedback/activated-manager.php:151 loco:5ec51f48c38e0f37eb169cf7
+msgid "Skip"
+msgstr "Skip"
+
+#: includes/feedback/feedback-last.php:103 loco:5ec51f48c38e0f37eb169cf8
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+
+#: includes/feedback/feedback-last.php:109 loco:5ec51f48c38e0f37eb169cf9
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+
+#: includes/feedback/feedback-last.php:113 loco:5ec51f48c38e0f37eb169cfa
+msgid "type here yours sugestions ..."
+msgstr "type here yours sugestions ..."
+
+#: includes/feedback/feedback-last.php:115 loco:5ec51f48c38e0f37eb169cfb
+msgid "(In this case, we are unable to email you)"
+msgstr "(In this case, we are unable to email you)"
+
+#: includes/feedback/feedback-last.php:117 loco:5ec51f48c38e0f37eb169cfc
+msgid "Yes, Submit and Deactivate"
+msgstr "Yes, Submit and Deactivate"
+
+#: includes/feedback/feedback-last.php:119 loco:5ec51f48c38e0f37eb169cfd
+msgid "Cancel Deactivation"
+msgstr "Cancel Deactivation"
+
+#: includes/feedback/feedback-last.php:120 loco:5ec51f48c38e0f37eb169cfe
+msgid "No, Just Deactivate it"
+msgstr "No, Just Deactivate it"
+
+#: includes/feedback/feedback.php:139 loco:5ec51f48c38e0f37eb169cff
+msgid "Bill Minozzi"
+msgstr "Bill Minozzi"
+
+#: includes/feedback/feedback.php:143 loco:5ec51f48c38e0f37eb169d00
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr "Hello, my name is Bill Minozzi, and I am developer of"
+
+#: includes/feedback/feedback.php:146 loco:5ec51f48c38e0f37eb169d01
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+
+#: includes/feedback/feedback.php:148 loco:5ec51f48c38e0f37eb169d02
+msgid "Rate or Share"
+msgstr "Rate or Share"
+
+#: includes/feedback/feedback.php:149 loco:5ec51f48c38e0f37eb169d03
+msgid "No, dismiss"
+msgstr "No, dismiss"
+
+#: includes/feedback/feedback.php:150 loco:5ec51f48c38e0f37eb169d04
+msgid "or"
+msgstr "or"
+
+#: includes/feedback/feedback.php:151 loco:5ec51f48c38e0f37eb169d05
+msgid "Remind me later"
+msgstr "Remind me later"
+
+#: includes/functions/functions.php:610 loco:5ec51f48c38e0f37eb169d06
+msgid "Extend standard plugin functionality with new great options."
+msgstr "Extend standard plugin functionality with new great options."
+
+#: includes/functions/functions.php:616 includes/functions/functions.php:628
+#: includes/functions/functions.php:634 loco:5ec51f48c38e0f37eb169d07
+msgid "Make Your Website Look More Professional."
+msgstr "Make Your Website Look More Professional."
+
+#: includes/functions/functions.php:622 loco:5ec51f48c38e0f37eb169d08
+msgid ""
+"Add colors and extend standard plugin functionality with new great options."
+msgstr ""
+"Add colors and extend standard plugin functionality with new great options."
+
+#: includes/functions/functions.php:636 loco:5ec51f48c38e0f37eb169d09
+msgid "It is time to upgrade your"
+msgstr "It is time to upgrade your"
+
+#: includes/functions/functions.php:739 loco:5ec51f48c38e0f37eb169d0a
+msgid "Close notice"
+msgstr "Close notice"
+
+#: includes/functions/functions.php:750 loco:5ec51f48c38e0f37eb169d0b
+msgid "to"
+msgstr "to"
+
+#: includes/functions/functions.php:754 loco:5ec51f48c38e0f37eb169d0c
+msgid "version!"
+msgstr "version!"
+
+#: includes/functions/functions.php:762 loco:5ec51f48c38e0f37eb169d0d
+msgid "Learn More"
+msgstr "Learn More"
+
+#: includes/functions/functions.php:766 loco:5ec51f48c38e0f37eb169d0e
+msgid "Dismiss"
+msgstr "Dismiss"
+
+#: includes/functions/functions.php:823 loco:5ec51f48c38e0f37eb169d0f
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: includes/functions/health.php:46 loco:5ec51f48c38e0f37eb169d10
+msgid "My Memory Test"
+msgstr "My Memory Test"
+
+#: includes/functions/health.php:60 includes/functions/health_permalink.php:36
+#: loco:5ec51f48c38e0f37eb169d11
+msgid "Critical"
+msgstr "Critical"
+
+#: includes/functions/health.php:65 loco:5ec51f48c38e0f37eb169d12
+msgid "Low WordPress Memory Limit in wp-config file"
+msgstr "Low WordPress Memory Limit in wp-config file"
+
+#: includes/functions/health.php:68 loco:5ec51f48c38e0f37eb169d13
+msgid ""
+"Run your site with low memory available, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+"Run your site with low memory available, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+
+#: includes/functions/health.php:73 loco:5ec51f48c38e0f37eb169d14
+msgid "WordPress Help Page"
+msgstr "WordPress Help Page"
+
+#: includes/functions/health_permalink.php:16 loco:5ec51f48c38e0f37eb169d15
+msgid "Wrong Permalink"
+msgstr "Wrong Permalink"
+
+#: includes/functions/health_permalink.php:41 loco:5ec51f48c38e0f37eb169d16
+msgid "Wrong Permalink Settings"
+msgstr "Wrong Permalink Settings"
+
+#: includes/functions/health_permalink.php:44 loco:5ec51f48c38e0f37eb169d17
+msgid ""
+"Please, fix it to avoid 404 error page.\n"
+"                     To correct, just go to \n"
+"                     Dashboard => Settings => Permalinks => Post Name (check)"
+"\n"
+"                     Then, click Save Changes."
+msgstr ""
+"Please, fix it to avoid 404 error page.\n"
+"                     To correct, just go to \n"
+"                     Dashboard => Settings => Permalinks => Post Name (check)"
+"\n"
+"                     Then, click Save Changes."
+
+#: includes/help/help.php:81 includes/help/help.php:156
+#: includes/help/help.php:272 includes/help/help.php:321
+#: includes/help/help.php:340 includes/help/help.php:358
+#: includes/help/help.php:376 loco:5ec51f48c38e0f37eb169d18
+msgid "Overview"
+msgstr "Overview"
+
+#: includes/help/help.php:86 loco:5ec51f48c38e0f37eb169d19
+msgid "Import Demo Data"
+msgstr "Import Demo Data"
+
+#: includes/help/help.php:161 loco:5ec51f48c38e0f37eb169d1a
+msgid "Field Types"
+msgstr "Field Types"
+
+#: includes/help/help.php:166 loco:5ec51f48c38e0f37eb169d1b
+msgid "Add Fields Form"
+msgstr "Add Fields Form"
+
+#: includes/help/help.php:171 loco:5ec51f48c38e0f37eb169d1c
+msgid "Edit and Trash Fields"
+msgstr "Edit and Trash Fields"
+
+#: includes/help/help.php:299 loco:5ec51f48c38e0f37eb169d1d
+msgid "Edit and Trash Boats"
+msgstr "Edit and Trash Boats"
+
+#: includes/help/help.php:304 loco:5ec51f48c38e0f37eb169d1e
+msgid "Featured Images"
+msgstr "Featured Images"
+
+#: includes/help/help.php:309 loco:5ec51f48c38e0f37eb169d1f
+msgid "Images and Gallery"
+msgstr "Images and Gallery"
+
+#: includes/multi/multi-functions.php:27 loco:5ec51f48c38e0f37eb169d20
+msgid "Order"
+msgstr "Order"
+
+#: includes/multi/multi-functions.php:28 loco:5ec51f48c38e0f37eb169d21
+msgid "Type Field"
+msgstr "Type Field"
+
+#: includes/multi/multi-functions.php:29 loco:5ec51f48c38e0f37eb169d22
+msgid "Label"
+msgstr "Label"
+
+#: includes/multi/multi-functions.php:30 loco:5ec51f48c38e0f37eb169d23
+msgid "Search Bar"
+msgstr "Search Bar"
+
+#: includes/multi/multi-functions.php:31 loco:5ec51f48c38e0f37eb169d24
+msgid "Widget"
+msgstr "Widget"
+
+#: includes/post-type/meta-box.php:5 includes/post-type/post-functions.php:404
+#: loco:5ec51f48c38e0f37eb169d25
+msgid "Featured"
+msgstr "Featured"
+
+#: includes/post-type/meta-box.php:6 loco:5ec51f48c38e0f37eb169d26
+msgid "Mark to show up at Featured Widget."
+msgstr "Mark to show up at Featured Widget."
+
+#: includes/post-type/meta-box.php:10 includes/post-type/post-functions.php:402
+#: includes/search/search-function.php:343 loco:5ec51f48c38e0f37eb169d27
+msgid "Price"
+msgstr "Price"
+
+#: includes/post-type/meta-box.php:11 loco:5ec51f48c38e0f37eb169d28
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+
+#: includes/post-type/meta-box.php:17 includes/post-type/post-functions.php:405
+#: includes/search/search-function.php:79
+#: includes/templates/template-functions.php:322
+#: includes/templates/template-showroom.php:115
+#: includes/templates/template-showroom2.php:244
+#: includes/widgets/widgets.php:72 includes/widgets/widgets.php:155
+#: loco:5ec51f48c38e0f37eb169d29
+msgid "Year"
+msgstr "Year"
+
+#: includes/post-type/meta-box.php:18 loco:5ec51f48c38e0f37eb169d2a
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "The year of the product. Only numbers, no point, no comma."
+
+#: includes/post-type/meta-box.php:25 loco:5ec51f48c38e0f37eb169d2b
+msgid "The amount of "
+msgstr "The amount of "
+
+#: includes/post-type/meta-box.php:32 loco:5ec51f48c38e0f37eb169d2c
+msgid "Engine HP. Only numbers, no point, no comma."
+msgstr "Engine HP. Only numbers, no point, no comma."
+
+#: includes/post-type/meta-box.php:38 loco:5ec51f48c38e0f37eb169d2d
+msgid "The Condition of this boat . Only numbers, no point, no comma."
+msgstr "The Condition of this boat . Only numbers, no point, no comma."
+
+#: includes/post-type/meta-box.php:42 loco:5ec51f48c38e0f37eb169d2e
+msgid "New"
+msgstr "New"
+
+#: includes/post-type/meta-box.php:43 loco:5ec51f48c38e0f37eb169d2f
+msgid "Used"
+msgstr "Used"
+
+#: includes/post-type/meta-box.php:44 loco:5ec51f48c38e0f37eb169d30
+msgid "Damaged"
+msgstr "Damaged"
+
+#: includes/post-type/meta-box.php:61 includes/post-type/meta-box.php:62
+#: loco:5ec51f48c38e0f37eb169d31
+msgid "Fuel Type."
+msgstr "Fuel Type."
+
+#: includes/post-type/meta-box.php:66 includes/search/search-function.php:120
+#: loco:5ec51f48c38e0f37eb169d32
+msgid "Diesel"
+msgstr "Diesel"
+
+#: includes/post-type/meta-box.php:67 includes/search/search-function.php:123
+#: loco:5ec51f48c38e0f37eb169d33
+msgid "Gasoline"
+msgstr "Gasoline"
+
+#: includes/post-type/meta-box.php:68 includes/search/search-function.php:126
+#: loco:5ec51f48c38e0f37eb169d34
+msgid "Hybrid"
+msgstr "Hybrid"
+
+#: includes/post-type/meta-box.php:69 includes/search/search-function.php:129
+#: loco:5ec51f48c38e0f37eb169d35
+msgid "Electric"
+msgstr "Electric"
+
+#: includes/post-type/meta-box.php:70 includes/search/search-function.php:132
+#: loco:5ec51f48c38e0f37eb169d36
+msgid "Biodiesel"
+msgstr "Biodiesel"
+
+#: includes/post-type/meta-box.php:71 includes/search/search-function.php:135
+#: loco:5ec51f48c38e0f37eb169d37
+msgid "CNG"
+msgstr "CNG"
+
+#: includes/post-type/meta-box.php:72 includes/search/search-function.php:138
+#: loco:5ec51f48c38e0f37eb169d38
+msgid "Ethanol"
+msgstr "Ethanol"
+
+#: includes/post-type/meta-box.php:73 includes/search/search-function.php:141
+#: loco:5ec51f48c38e0f37eb169d39
+msgid "Other"
+msgstr "Other"
+
+#: includes/post-type/meta-box.php:174
+#: includes/templates/template-functions.php:40 loco:5ec51f48c38e0f37eb169d3a
+msgid "Details"
+msgstr "Details"
+
+#: includes/post-type/post-functions.php:12 loco:5ec51f48c38e0f37eb169d3b
+msgid "Boats"
+msgstr "Boats"
+
+#: includes/post-type/post-functions.php:16 loco:5ec51f48c38e0f37eb169d3c
+msgid "Edit Boats"
+msgstr "Edit Boats"
+
+#: includes/post-type/post-functions.php:17 loco:5ec51f48c38e0f37eb169d3d
+msgid "Search Boats"
+msgstr "Search Boats"
+
+#: includes/post-type/post-functions.php:49
+#: includes/templates/template-functions.php:283 loco:5ec51f48c38e0f37eb169d3e
+msgid "Model"
+msgstr "Model"
+
+#: includes/post-type/post-functions.php:50 loco:5ec51f48c38e0f37eb169d3f
+msgid "SearchModels"
+msgstr "SearchModels"
+
+#: includes/post-type/post-functions.php:51 loco:5ec51f48c38e0f37eb169d40
+msgid "Popular Models"
+msgstr "Popular Models"
+
+#: includes/post-type/post-functions.php:52 loco:5ec51f48c38e0f37eb169d41
+msgid "All Models"
+msgstr "All Models"
+
+#: includes/post-type/post-functions.php:53 loco:5ec51f48c38e0f37eb169d42
+msgid "Parent Model"
+msgstr "Parent Model"
+
+#: includes/post-type/post-functions.php:54 loco:5ec51f48c38e0f37eb169d43
+msgid "Parent Model:"
+msgstr "Parent Model:"
+
+#: includes/post-type/post-functions.php:55 loco:5ec51f48c38e0f37eb169d44
+msgid "Edit Model"
+msgstr "Edit Model"
+
+#: includes/post-type/post-functions.php:56 loco:5ec51f48c38e0f37eb169d45
+msgid "Update Model"
+msgstr "Update Model"
+
+#: includes/post-type/post-functions.php:57 loco:5ec51f48c38e0f37eb169d46
+msgid "Add New Model"
+msgstr "Add New Model"
+
+#: includes/post-type/post-functions.php:58 loco:5ec51f48c38e0f37eb169d47
+msgid "New Model"
+msgstr "New Model"
+
+#: includes/post-type/post-functions.php:59 loco:5ec51f48c38e0f37eb169d48
+msgid "Separate Model with commas"
+msgstr "Separate Model with commas"
+
+#: includes/post-type/post-functions.php:60 loco:5ec51f48c38e0f37eb169d49
+msgid "Add or Remove Model"
+msgstr "Add or Remove Model"
+
+#: includes/post-type/post-functions.php:61 loco:5ec51f48c38e0f37eb169d4a
+msgid "Choose from the most used Model"
+msgstr "Choose from the most used Model"
+
+#: includes/post-type/post-functions.php:71 loco:5ec51f48c38e0f37eb169d4b
+msgid "team"
+msgstr "team"
+
+#: includes/post-type/post-functions.php:73 loco:5ec51f48c38e0f37eb169d4c
+msgid "Search team"
+msgstr "Search team"
+
+#: includes/post-type/post-functions.php:75 loco:5ec51f48c38e0f37eb169d4d
+msgid "All Team"
+msgstr "All Team"
+
+#: includes/post-type/post-functions.php:76 loco:5ec51f48c38e0f37eb169d4e
+msgid "Parent team"
+msgstr "Parent team"
+
+#: includes/post-type/post-functions.php:77 loco:5ec51f48c38e0f37eb169d4f
+msgid "Parent team:"
+msgstr "Parent team:"
+
+#: includes/post-type/post-functions.php:78 loco:5ec51f48c38e0f37eb169d50
+msgid "Edit team member"
+msgstr "Edit team member"
+
+#: includes/post-type/post-functions.php:79 loco:5ec51f48c38e0f37eb169d51
+msgid "Update team"
+msgstr "Update team"
+
+#: includes/post-type/post-functions.php:80 loco:5ec51f48c38e0f37eb169d52
+msgid "Add New team member"
+msgstr "Add New team member"
+
+#: includes/post-type/post-functions.php:81 loco:5ec51f48c38e0f37eb169d53
+msgid "New team"
+msgstr "New team"
+
+#: includes/post-type/post-functions.php:82 loco:5ec51f48c38e0f37eb169d54
+msgid "Separate team with commas"
+msgstr "Separate team with commas"
+
+#: includes/post-type/post-functions.php:83 loco:5ec51f48c38e0f37eb169d55
+msgid "Add or Remove team"
+msgstr "Add or Remove team"
+
+#: includes/post-type/post-functions.php:84 loco:5ec51f48c38e0f37eb169d56
+msgid "Choose from the most used makers"
+msgstr "Choose from the most used makers"
+
+#: includes/post-type/post-functions.php:99 loco:5ec51f48c38e0f37eb169d57
+msgid "Search Features"
+msgstr "Search Features"
+
+#: includes/post-type/post-functions.php:100 loco:5ec51f48c38e0f37eb169d58
+msgid "Popular Features"
+msgstr "Popular Features"
+
+#: includes/post-type/post-functions.php:101 loco:5ec51f48c38e0f37eb169d59
+msgid "All Features"
+msgstr "All Features"
+
+#: includes/post-type/post-functions.php:102 loco:5ec51f48c38e0f37eb169d5a
+msgid "Parent Item Features"
+msgstr "Parent Item Features"
+
+#: includes/post-type/post-functions.php:103 loco:5ec51f48c38e0f37eb169d5b
+msgid "Parent Features"
+msgstr "Parent Features"
+
+#: includes/post-type/post-functions.php:104 loco:5ec51f48c38e0f37eb169d5c
+msgid "Edit Features"
+msgstr "Edit Features"
+
+#: includes/post-type/post-functions.php:105 loco:5ec51f48c38e0f37eb169d5d
+msgid "Update Features"
+msgstr "Update Features"
+
+#: includes/post-type/post-functions.php:106 loco:5ec51f48c38e0f37eb169d5e
+msgid "Add New Features"
+msgstr "Add New Features"
+
+#: includes/post-type/post-functions.php:107 loco:5ec51f48c38e0f37eb169d5f
+msgid "New Features"
+msgstr "New Features"
+
+#: includes/post-type/post-functions.php:108 loco:5ec51f48c38e0f37eb169d60
+msgid "Separate Features with commas"
+msgstr "Separate Features with commas"
+
+#: includes/post-type/post-functions.php:109 loco:5ec51f48c38e0f37eb169d61
+msgid "Add or Remove Features"
+msgstr "Add or Remove Features"
+
+#: includes/post-type/post-functions.php:110 loco:5ec51f48c38e0f37eb169d62
+msgid "Choose from the most used Features"
+msgstr "Choose from the most used Features"
+
+#: includes/post-type/post-functions.php:147
+#: includes/post-type/post-functions.php:236 loco:5ec51f48c38e0f37eb169d63
+msgid "Order:"
+msgstr "Order:"
+
+#: includes/post-type/post-functions.php:149
+#: includes/post-type/post-functions.php:239 loco:5ec51f48c38e0f37eb169d64
+msgid "Order to display. For example: 1 (first), 2 (second) and so on ..."
+msgstr "Order to display. For example: 1 (first), 2 (second) and so on ..."
+
+#: includes/post-type/post-functions.php:152
+#: includes/post-type/post-functions.php:244 loco:5ec51f48c38e0f37eb169d65
+msgid "Profile Image:"
+msgstr "Profile Image:"
+
+#: includes/post-type/post-functions.php:157
+#: includes/post-type/post-functions.php:261 loco:5ec51f48c38e0f37eb169d66
+msgid "Just click the Button to Select Upload Image"
+msgstr "Just click the Button to Select Upload Image"
+
+#: includes/post-type/post-functions.php:163
+#: includes/post-type/post-functions.php:266 loco:5ec51f48c38e0f37eb169d67
+msgid "Position:"
+msgstr "Position:"
+
+#: includes/post-type/post-functions.php:165
+#: includes/post-type/post-functions.php:269 loco:5ec51f48c38e0f37eb169d68
+msgid "For example: Sales Manager, Agent, and so on ..."
+msgstr "For example: Sales Manager, Agent, and so on ..."
+
+#: includes/post-type/post-functions.php:168
+#: includes/post-type/post-functions.php:274 loco:5ec51f48c38e0f37eb169d69
+msgid "Phone:"
+msgstr "Phone:"
+
+#: includes/post-type/post-functions.php:172
+#: includes/post-type/post-functions.php:281 loco:5ec51f48c38e0f37eb169d6a
+msgid "Email address:"
+msgstr "Email address:"
+
+#: includes/post-type/post-functions.php:176
+#: includes/post-type/post-functions.php:288 loco:5ec51f48c38e0f37eb169d6b
+msgid "Skype:"
+msgstr "Skype:"
+
+#: includes/post-type/post-functions.php:180
+#: includes/post-type/post-functions.php:295 loco:5ec51f48c38e0f37eb169d6c
+msgid "Facebook URL:"
+msgstr "Facebook URL:"
+
+#: includes/post-type/post-functions.php:184
+#: includes/post-type/post-functions.php:302 loco:5ec51f48c38e0f37eb169d6d
+msgid "Twitter URL:"
+msgstr "Twitter URL:"
+
+#: includes/post-type/post-functions.php:188
+#: includes/post-type/post-functions.php:309 loco:5ec51f48c38e0f37eb169d6e
+msgid "Linkedin URL:"
+msgstr "Linkedin URL:"
+
+#: includes/post-type/post-functions.php:192
+#: includes/post-type/post-functions.php:316 loco:5ec51f48c38e0f37eb169d6f
+msgid "Youtube URL:"
+msgstr "Youtube URL:"
+
+#: includes/post-type/post-functions.php:196
+#: includes/post-type/post-functions.php:323 loco:5ec51f48c38e0f37eb169d70
+msgid "Instagram URL:"
+msgstr "Instagram URL:"
+
+#: includes/post-type/post-functions.php:200
+#: includes/post-type/post-functions.php:330 loco:5ec51f48c38e0f37eb169d71
+msgid "Vimeo URL:"
+msgstr "Vimeo URL:"
+
+#: includes/post-type/post-functions.php:403 loco:5ec51f48c38e0f37eb169d72
+msgid "Featured Image"
+msgstr "Featured Image"
+
+#: includes/post-type/post-functions.php:432 loco:5ec51f48c38e0f37eb169d73
+msgid "Call For Price"
+msgstr "Call For Price"
+
+#: includes/post-type/post-functions.php:454 loco:5ec51f48c38e0f37eb169d74
+msgid "Name"
+msgstr "Name"
+
+#: includes/post-type/post-functions.php:455 loco:5ec51f48c38e0f37eb169d75
+msgid "Description"
+msgstr "Description"
+
+#: includes/post-type/post-functions.php:456 loco:5ec51f48c38e0f37eb169d76
+msgid "Slug"
+msgstr "Slug"
+
+#: includes/search/search-function.php:16
+#: includes/search/search-function.php:369 includes/widgets/widgets.php:218
+#: loco:5ec51f48c38e0f37eb169d77
+msgid "Search"
+msgstr "Search"
+
+#: includes/search/search-function.php:84
+#: includes/search/search-function.php:118
+#: includes/search/search-function.php:194
+#: includes/search/search-function.php:218
+#: includes/search/search-function.php:239
+#: includes/search/search-function.php:265 loco:5ec51f48c38e0f37eb169d78
+msgid "Any"
+msgstr "Any"
+
+#: includes/search/search-function.php:112
+#: includes/templates/template-functions.php:319
+#: includes/templates/template-showroom.php:116
+#: includes/templates/template-showroom2.php:245 loco:5ec51f48c38e0f37eb169d79
+msgid "Fuel"
+msgstr "Fuel"
+
+#: includes/search/search-function.php:258 loco:5ec51f48c38e0f37eb169d7a
+msgid "Order By"
+msgstr "Order By"
+
+#: includes/search/search-function.php:267 loco:5ec51f48c38e0f37eb169d7b
+msgid "Year newest first"
+msgstr "Year newest first"
+
+#: includes/search/search-function.php:270 loco:5ec51f48c38e0f37eb169d7c
+msgid "Year oldest first"
+msgstr "Year oldest first"
+
+#: includes/search/search-function.php:273 loco:5ec51f48c38e0f37eb169d7d
+msgid "Price higher first"
+msgstr "Price higher first"
+
+#: includes/search/search-function.php:276 loco:5ec51f48c38e0f37eb169d7e
+msgid "Price lower first"
+msgstr "Price lower first"
+
+#: includes/search/search-function.php:281 loco:5ec51f48c38e0f37eb169d7f
+msgid "Hours higher first"
+msgstr "Hours higher first"
+
+#: includes/search/search-function.php:284 loco:5ec51f48c38e0f37eb169d80
+msgid "Hours lower first"
+msgstr "Hours lower first"
+
+#: includes/search/search-function.php:290 loco:5ec51f48c38e0f37eb169d81
+msgid "Mileage higher first"
+msgstr "Mileage higher first"
+
+#: includes/search/search-function.php:293 loco:5ec51f48c38e0f37eb169d82
+msgid "Mileage lower first"
+msgstr "Mileage lower first"
+
+#: includes/search/search-function.php:315 loco:5ec51f48c38e0f37eb169d83
+msgid "Price Range"
+msgstr "Price Range"
+
+#: includes/team/team.php:114 loco:5ec51f48c38e0f37eb169d84
+msgid "No Team Member Added!"
+msgstr "No Team Member Added!"
+
+#: includes/templates/template-functions.php:104 loco:5ec51f48c38e0f37eb169d85
+msgid "Yes"
+msgstr "Yes"
+
+#: includes/templates/template-functions.php:106 loco:5ec51f48c38e0f37eb169d86
+msgid "No"
+msgstr "No"
+
+#: includes/templates/template-functions.php:241
+#: includes/templates/template-showroom.php:110
+#: includes/templates/template-showroom1.php:120
+#: includes/templates/template-showroom2.php:239
+#: includes/templates/template-showroom3.php:269
+#: includes/widgets/widgets.php:70 includes/widgets/widgets.php:153
+#: loco:5ec51f48c38e0f37eb169d87
+msgid "Call for Price"
+msgstr "Call for Price"
+
+#: includes/templates/template-functions.php:328 loco:5ec51f48c38e0f37eb169d88
+msgid "Cond"
+msgstr "Cond"
+
+#: includes/templates/template-functions.php:331
+#: includes/templates/template-showroom.php:114
+#: includes/templates/template-showroom1.php:126
+#: includes/templates/template-showroom2.php:243
+#: includes/templates/template-showroom3.php:274 loco:5ec51f48c38e0f37eb169d89
+msgid "HP"
+msgstr "HP"
+
+#: includes/templates/template-showroom.php:117
+#: includes/templates/template-showroom2.php:246 loco:5ec51f48c38e0f37eb169d8a
+msgid "Transmission"
+msgstr "Transmission"
+
+#: includes/templates/template-showroom.php:142
+#: includes/templates/template-showroom1.php:181
+#: includes/templates/template-showroom2.php:268
+#: includes/templates/template-showroom3.php:322
+#: includes/templates/template-single.php:37 loco:5ec51f48c38e0f37eb169d8b
+msgid "Back"
+msgstr "Back"
+
+#: includes/templates/template-showroom.php:143
+#: includes/templates/template-showroom1.php:182
+#: includes/templates/template-showroom2.php:269
+#: includes/templates/template-showroom3.php:323 loco:5ec51f48c38e0f37eb169d8c
+msgid "Onward"
+msgstr "Onward"
+
+#: includes/templates/template-showroom.php:153
+#: includes/templates/template-showroom1.php:192
+#: includes/templates/template-showroom2.php:278
+#: includes/templates/template-showroom3.php:332 loco:5ec51f48c38e0f37eb169d8d
+msgid "Not Found !"
+msgstr "Not Found !"
+
+#: includes/templates/template-showroom1.php:169
+#: includes/templates/template-showroom3.php:313 loco:5ec51f48c38e0f37eb169d8e
+msgid "View"
+msgstr "View"
+
+#: includes/templates/template-single.php:55 loco:5ec51f48c38e0f37eb169d8f
+msgid "Contact Us"
+msgstr "Contact Us"
+
+#: includes/widgets/widgets.php:15 loco:5ec51f48c38e0f37eb169d90
+msgid "A list of Recent boats"
+msgstr "A list of Recent boats"
+
+#: includes/widgets/widgets.php:41 loco:5ec51f48c38e0f37eb169d91
+msgid "New Arrivals"
+msgstr "New Arrivals"
+
+#: includes/widgets/widgets.php:93 loco:5ec51f48c38e0f37eb169d92
+msgid "A list of Featured boat-s"
+msgstr "A list of Featured boat-s"
+
+#: includes/widgets/widgets.php:117 loco:5ec51f48c38e0f37eb169d93
+msgid "Featured boats"
+msgstr "Featured boats"
+
+#: includes/widgets/widgets.php:193 loco:5ec51f48c38e0f37eb169d94
+msgid "Search boats"
+msgstr "Search boats"
+
+#: includes/widgets/widgets.php:205 loco:5ec51f48c38e0f37eb169d95
+msgid "Title"
+msgstr "Title"
+
+#: settings/options/plugin_options_tabbed.php:16 loco:5ec51f48c38e0f37eb169d96
+msgid "Choose your currency, metric system and so on."
+msgstr "Choose your currency, metric system and so on."
+
+#: settings/options/plugin_options_tabbed.php:21 loco:5ec51f48c38e0f37eb169d97
+msgid "Currency"
+msgstr "Currency"
+
+#: settings/options/plugin_options_tabbed.php:40 loco:5ec51f48c38e0f37eb169d98
+msgid "Miles - Km - Hours"
+msgstr "Miles - Km - Hours"
+
+#: settings/options/plugin_options_tabbed.php:42 loco:5ec51f48c38e0f37eb169d99
+msgid "Miles"
+msgstr "Miles"
+
+#: settings/options/plugin_options_tabbed.php:43 loco:5ec51f48c38e0f37eb169d9a
+msgid "Kms"
+msgstr "Kms"
+
+#: settings/options/plugin_options_tabbed.php:44 loco:5ec51f48c38e0f37eb169d9b
+msgid "Hours"
+msgstr "Hours"
+
+#: settings/options/plugin_options_tabbed.php:50 loco:5ec51f48c38e0f37eb169d9c
+msgid "Liters - Gallons"
+msgstr "Liters - Gallons"
+
+#: settings/options/plugin_options_tabbed.php:52 loco:5ec51f48c38e0f37eb169d9d
+msgid "Liters"
+msgstr "Liters"
+
+#: settings/options/plugin_options_tabbed.php:53 loco:5ec51f48c38e0f37eb169d9e
+msgid "Gallons"
+msgstr "Gallons"
+
+#: settings/options/plugin_options_tabbed.php:59 loco:5ec51f48c38e0f37eb169d9f
+msgid "Feet - Meters"
+msgstr "Feet - Meters"
+
+#: settings/options/plugin_options_tabbed.php:61 loco:5ec51f48c38e0f37eb169da0
+msgid "Feet"
+msgstr "Feet"
+
+#: settings/options/plugin_options_tabbed.php:62 loco:5ec51f48c38e0f37eb169da1
+msgid "Meters"
+msgstr "Meters"
+
+#: settings/options/plugin_options_tabbed.php:68 loco:5ec51f48c38e0f37eb169da2
+msgid "How many boats would you like to display per page?"
+msgstr "How many boats would you like to display per page?"
+
+#: settings/options/plugin_options_tabbed.php:92 loco:5ec51f48c38e0f37eb169da3
+msgid "Remove Sidebar from Search Result Page"
+msgstr "Remove Sidebar from Search Result Page"
+
+#: settings/options/plugin_options_tabbed.php:101 loco:5ec51f48c38e0f37eb169da4
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr "Replace the Wordpress Gallery with Flexslider Gallery"
+
+#: settings/options/plugin_options_tabbed.php:110 loco:5ec51f48c38e0f37eb169da5
+msgid "Use thumbnails size 2:1 or 4:3 ?"
+msgstr "Use thumbnails size 2:1 or 4:3 ?"
+
+#: settings/options/plugin_options_tabbed.php:119 loco:5ec51f48c38e0f37eb169da6
+msgid "Enable Contact Form in Single Product Page?"
+msgstr "Enable Contact Form in Single Product Page?"
+
+#: settings/options/plugin_options_tabbed.php:128 loco:5ec51f48c38e0f37eb169da7
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual boat page."
+msgstr ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual boat page."
+
+#: settings/options/plugin_options_tabbed.php:133 loco:5ec51f48c38e0f37eb169da8
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr "In Show Room Page, use Gallery or List View Template"
+
+#: settings/options/plugin_options_tabbed.php:140 loco:5ec51f48c38e0f37eb169da9
+msgid ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+msgstr ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+
+#: settings/options/plugin_options_tabbed.php:145
+#: settings/options/plugin_options_tabbed.php:184 loco:5ec51f48c38e0f37eb169daa
+msgid "Show the Fuel type control"
+msgstr "Show the Fuel type control"
+
+#: settings/options/plugin_options_tabbed.php:154
+#: settings/options/plugin_options_tabbed.php:193 loco:5ec51f48c38e0f37eb169dab
+msgid "Show the Year control"
+msgstr "Show the Year control"
+
+#: settings/options/plugin_options_tabbed.php:163 loco:5ec51f48c38e0f37eb169dac
+msgid "Show the Price slider"
+msgstr "Show the Price slider"
+
+#: settings/options/plugin_options_tabbed.php:172
+#: settings/options/plugin_options_tabbed.php:211 loco:5ec51f48c38e0f37eb169dad
+msgid "Show the Order By Control"
+msgstr "Show the Order By Control"
+
+#: settings/options/plugin_options_tabbed.php:179 loco:5ec51f48c38e0f37eb169dae
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+
+#: settings/options/plugin_options_tabbed.php:202 loco:5ec51f48c38e0f37eb169daf
+msgid "Show the Price control"
+msgstr "Show the Price control"
+
+#: settings/options/plugin_options_tabbed.php:221 loco:5ec51f48c38e0f37eb169db0
+msgid "This TAB works only in Premium Version"
+msgstr "This TAB works only in Premium Version"
+
+#: settings/options/plugin_options_tabbed.php:225 loco:5ec51f48c38e0f37eb169db1
+msgid "Choose colours and so on"
+msgstr "Choose colours and so on"
+
+#: settings/options/plugin_options_tabbed.php:235 loco:5ec51f48c38e0f37eb169db2
+msgid "Search Button Background Color"
+msgstr "Search Button Background Color"
+
+#: settings/options/plugin_options_tabbed.php:240 loco:5ec51f48c38e0f37eb169db3
+msgid "Search Button Color"
+msgstr "Search Button Color"
+
+#: settings/options/plugin_options_tabbed.php:245 loco:5ec51f48c38e0f37eb169db4
+msgid "Background Color"
+msgstr "Background Color"
+
+#: settings/options/plugin_options_tabbed.php:250 loco:5ec51f48c38e0f37eb169db5
+msgid "Foreground Text Color"
+msgstr "Foreground Text Color"
+
+#: settings/options/plugin_options_tabbed.php:255 loco:5ec51f48c38e0f37eb169db6
+msgid "Label Color"
+msgstr "Label Color"
+
+#: settings/options/plugin_options_tabbed.php:260 loco:5ec51f48c38e0f37eb169db7
+msgid "Select Border Color"
+msgstr "Select Border Color"
+
+#: settings/options/plugin_options_tabbed.php:265 loco:5ec51f48c38e0f37eb169db8
+msgid "Boat Background Page Color"
+msgstr "Boat Background Page Color"
+
+#: settings/options/plugin_options_tabbed.php:270 loco:5ec51f48c38e0f37eb169db9
+msgid "Boat Box Border Color"
+msgstr "Boat Box Border Color"
+
+#: settings/options/plugin_options_tabbed.php:275 loco:5ec51f48c38e0f37eb169dba
+msgid "Select Title Color"
+msgstr "Select Title Color"
+
+#: settings/options/plugin_options_tabbed.php:280 loco:5ec51f48c38e0f37eb169dbb
+msgid "Single Boat Page Background Color"
+msgstr "Single Boat Page Background Color"
+
+#: settings/options/plugin_options_tabbed.php:285 loco:5ec51f48c38e0f37eb169dbc
+msgid "Single Boat Page Foreground Text Color"
+msgstr "Single Boat Page Foreground Text Color"
+
+#: settings/options/plugin_options_tabbed.php:290 loco:5ec51f48c38e0f37eb169dbd
+msgid "Widget Title background Color"
+msgstr "Widget Title background Color"
+
+#: settings/options/plugin_options_tabbed.php:295 loco:5ec51f48c38e0f37eb169dbe
+msgid "Widget Title Color"
+msgstr "Widget Title Color"
+
+#: settings/options/plugin_options_tabbed.php:300 loco:5ec51f48c38e0f37eb169dbf
+msgid "Customized CSS"
+msgstr "Customized CSS"

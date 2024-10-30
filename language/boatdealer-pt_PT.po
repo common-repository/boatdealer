@@ -1,0 +1,1028 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BoatDealer\n"
+"POT-Creation-Date: 2019-10-07 19:54+0100\n"
+"PO-Revision-Date: 2019-10-07 19:58+0100\n"
+"Last-Translator: Bill <sergiominozzi@gmail.com>\n"
+"Language-Team: Bill Minozzi <sergiominozzi@gmail.com>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;_x;_nx\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: boatdealer.php:224
+msgid "Make"
+msgstr "Fabricantes"
+
+#: boatdealer.php:225
+msgid "Boat Type"
+msgstr "Tipos de Botes"
+
+#: boatdealer.php:226
+msgid "Condition"
+msgstr "Condiçao"
+
+#: dashboard/main.php:103
+msgid "Fields Table"
+msgstr ""
+
+#: dashboard/main.php:104
+#, fuzzy
+#| msgid "Boat Type"
+msgid "Boats Table"
+msgstr "Tipo de bote"
+
+#: dashboard/main.php:105 includes/help/help.php:289
+#, fuzzy
+msgid "Models"
+msgstr "Modelos"
+
+#: dashboard/main.php:106 includes/help/help.php:294
+#: includes/post-type/post-functions.php:98
+#: includes/templates/template-functions.php:48
+msgid "Features"
+msgstr "Detalhes"
+
+#: dashboard/main.php:107 includes/help/help.php:277
+msgid "Team"
+msgstr ""
+
+#: dashboard/main.php:108
+msgid "Settings"
+msgstr ""
+
+#: dashboard/memory.php:31
+#, fuzzy
+msgid "Update"
+msgstr " "
+
+#: dashboard/memory.php:32 includes/contact-form/multi-contact-show-form.php:48
+msgid "Cancel"
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:22
+msgid "Request Information"
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:26
+msgid "Your Name"
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:29
+msgid "Please type your name"
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:32
+msgid "Your Email"
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:35
+msgid "Please type your email"
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:39
+msgid "Your Message"
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:41
+msgid "Please type your message"
+msgstr ""
+
+#: includes/contact-form/multi-contact-show-form.php:47
+msgid "Send"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:137
+#: includes/feedback/feedback-last.php:104
+msgid "Hi, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:146
+#: includes/feedback/feedback-last.php:111
+msgid "Thank You!"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:149
+msgid "Yes, Submit"
+msgstr ""
+
+#: includes/feedback/activated-manager.php:151
+msgid "Skip"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:103
+msgid ""
+"If you have a moment, Please, let us know you and why you are deactivating."
+msgstr ""
+
+#: includes/feedback/feedback-last.php:109
+msgid ""
+"If you Kindly tell us the reason so we can improve it and maybe give some "
+"support by email to you."
+msgstr ""
+
+#: includes/feedback/feedback-last.php:113
+msgid "type here yours sugestions ..."
+msgstr ""
+
+#: includes/feedback/feedback-last.php:115
+msgid "(In this case, we are unable to email you)"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:117
+msgid "Yes, Submit and Deactivate"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:119
+msgid "Cancel Deactivation"
+msgstr ""
+
+#: includes/feedback/feedback-last.php:120
+msgid "No, Just Deactivate it"
+msgstr ""
+
+#: includes/feedback/feedback.php:139
+msgid "Bill Minozzi"
+msgstr ""
+
+#: includes/feedback/feedback.php:143
+msgid "Hello, my name is Bill Minozzi, and I am developer of"
+msgstr ""
+
+#: includes/feedback/feedback.php:146
+msgid ""
+"If you like this product, please write a few words about it. It will help "
+"other people find this useful plugin more quickly.<br><b>Thank you!</b>"
+msgstr ""
+
+#: includes/feedback/feedback.php:148
+msgid "Rate or Share"
+msgstr ""
+
+#: includes/feedback/feedback.php:149
+msgid "No, dismiss"
+msgstr ""
+
+#: includes/feedback/feedback.php:150
+msgid "or"
+msgstr ""
+
+#: includes/feedback/feedback.php:151
+msgid "Remind me later"
+msgstr ""
+
+#: includes/functions/functions.php:610 includes/functions/functions.php:622
+msgid "Extend standard plugin functionality with new great options."
+msgstr ""
+
+#: includes/functions/functions.php:616 includes/functions/functions.php:628
+#: includes/functions/functions.php:634
+msgid "Make Your Website Look More Professional."
+msgstr ""
+
+#: includes/functions/functions.php:636
+msgid "It is time to upgrade your"
+msgstr ""
+
+#: includes/functions/functions.php:739
+msgid "Close notice"
+msgstr ""
+
+#: includes/functions/functions.php:750
+msgid "to"
+msgstr ""
+
+#: includes/functions/functions.php:754
+msgid "version!"
+msgstr ""
+
+#: includes/functions/functions.php:762
+msgid "Learn More"
+msgstr ""
+
+#: includes/functions/functions.php:766
+msgid "Dismiss"
+msgstr ""
+
+#: includes/functions/functions.php:822
+msgid "Dashboard"
+msgstr ""
+
+#: includes/functions/health.php:46
+msgid "My Memory Test"
+msgstr ""
+
+#: includes/functions/health.php:60 includes/functions/health_permalink.php:36
+msgid "Critical"
+msgstr ""
+
+#: includes/functions/health.php:65
+msgid "Low WordPress Memory Limit in wp-config file"
+msgstr ""
+
+#: includes/functions/health.php:68
+msgid ""
+"Run your site with low memory available, can result in behaving slowly, or "
+"pages fail to load, you get random white screens of death or 500 internal "
+"server error. Basically, the more content, features and plugins you add to "
+"your site, the bigger your memory limit has to be. Increase the WP Memory "
+"Limit is a standard practice in WordPress. You can manually increase memory "
+"limit in WordPress by editing the wp-config.php file. You can find "
+"instructions in the official WordPress documentation (Increasing memory "
+"allocated to PHP). Just click the link below: "
+msgstr ""
+
+#: includes/functions/health.php:73
+msgid "WordPress Help Page"
+msgstr ""
+
+#: includes/functions/health_permalink.php:16
+msgid "Wrong Permalink"
+msgstr ""
+
+#: includes/functions/health_permalink.php:41
+msgid "Wrong Permalink Settings"
+msgstr ""
+
+#: includes/functions/health_permalink.php:44
+msgid ""
+"Please, fix it to avoid 404 error page.\n"
+"                     To correct, just go to \n"
+"                     Dashboard => Settings => Permalinks => Post Name "
+"(check)\n"
+"                     Then, click Save Changes."
+msgstr ""
+
+#: includes/help/help.php:81 includes/help/help.php:156
+#: includes/help/help.php:272 includes/help/help.php:321
+#: includes/help/help.php:340 includes/help/help.php:358
+#: includes/help/help.php:376
+msgid "Overview"
+msgstr "Visao Geral"
+
+#: includes/help/help.php:86
+msgid "Import Demo Data"
+msgstr ""
+
+#: includes/help/help.php:161
+#, fuzzy
+msgid "Field Types"
+msgstr "Tipo de Combustivel"
+
+#: includes/help/help.php:166
+msgid "Add Fields Form"
+msgstr ""
+
+#: includes/help/help.php:171
+msgid "Edit and Trash Fields"
+msgstr ""
+
+#: includes/help/help.php:299
+msgid "Edit and Trash Boats"
+msgstr ""
+
+#: includes/help/help.php:304
+#, fuzzy
+msgid "Featured Images"
+msgstr "Barcos em Destaque"
+
+#: includes/help/help.php:309
+msgid "Images and Gallery"
+msgstr ""
+
+#: includes/multi/multi-functions.php:27
+msgid "Order"
+msgstr ""
+
+#: includes/multi/multi-functions.php:28
+msgid "Type Field"
+msgstr ""
+
+#: includes/multi/multi-functions.php:29
+msgid "Label"
+msgstr ""
+
+#: includes/multi/multi-functions.php:30
+msgid "Search Bar"
+msgstr "Barra de Pesquisa"
+
+#: includes/multi/multi-functions.php:31
+msgid "Widget"
+msgstr ""
+
+#: includes/post-type/meta-box.php:5 includes/post-type/post-functions.php:404
+#, fuzzy
+msgid "Featured"
+msgstr "Detalhes"
+
+#: includes/post-type/meta-box.php:6
+#, fuzzy
+msgid "Mark to show up at Featured Widget."
+msgstr "<br />Mark to show up <br />at Featured Widget."
+
+#: includes/post-type/meta-box.php:10 includes/post-type/post-functions.php:402
+#: includes/search/search-function.php:343
+msgid "Price"
+msgstr ""
+
+#: includes/post-type/meta-box.php:11
+msgid ""
+"No special characters here (\"$\" \",\" \".\"), the plugin will auto format "
+"the number."
+msgstr ""
+"Nao use caracteres especiais aqui (\"$\" \",\" \".\"), o plugin irà auto "
+"formatar os numeros."
+
+#: includes/post-type/meta-box.php:17 includes/post-type/post-functions.php:405
+#: includes/search/search-function.php:79
+#: includes/templates/template-functions.php:110
+#: includes/templates/template-showroom.php:115
+#: includes/templates/template-showroom2.php:244
+#: includes/widgets/widgets.php:72 includes/widgets/widgets.php:155
+msgid "Year"
+msgstr "Ano"
+
+#: includes/post-type/meta-box.php:18
+#, fuzzy
+msgid "The year of the product. Only numbers, no point, no comma."
+msgstr "Ano do modelo. Use somente numeros."
+
+#: includes/post-type/meta-box.php:25
+msgid "The amount of "
+msgstr "Todal de"
+
+#: includes/post-type/meta-box.php:32
+msgid "Engine HP. Only numbers, no point, no comma."
+msgstr "Potencia do Motor. Use apenas numeros."
+
+#: includes/post-type/meta-box.php:38
+#, fuzzy
+msgid "The Condition of this boat . Only numbers, no point, no comma."
+msgstr "Kilometragem/Milhas/Horas. Use somente numeros."
+
+#: includes/post-type/meta-box.php:42
+msgid "New"
+msgstr ""
+
+#: includes/post-type/meta-box.php:43
+msgid "Used"
+msgstr ""
+
+#: includes/post-type/meta-box.php:44
+msgid "Damaged"
+msgstr ""
+
+#: includes/post-type/meta-box.php:61 includes/post-type/meta-box.php:62
+msgid "Fuel Type."
+msgstr "Tipo de Combustivel"
+
+#: includes/post-type/meta-box.php:66 includes/search/search-function.php:120
+msgid "Diesel"
+msgstr ""
+
+#: includes/post-type/meta-box.php:67 includes/search/search-function.php:123
+msgid "Gasoline"
+msgstr ""
+
+#: includes/post-type/meta-box.php:68 includes/search/search-function.php:126
+msgid "Hybrid"
+msgstr ""
+
+#: includes/post-type/meta-box.php:69 includes/search/search-function.php:129
+msgid "Electric"
+msgstr ""
+
+#: includes/post-type/meta-box.php:70 includes/search/search-function.php:132
+msgid "Biodiesel"
+msgstr ""
+
+#: includes/post-type/meta-box.php:71 includes/search/search-function.php:135
+msgid "CNG"
+msgstr ""
+
+#: includes/post-type/meta-box.php:72 includes/search/search-function.php:138
+msgid "Ethanol"
+msgstr ""
+
+#: includes/post-type/meta-box.php:73 includes/search/search-function.php:141
+msgid "Other"
+msgstr ""
+
+#: includes/post-type/meta-box.php:174
+#: includes/templates/template-functions.php:14
+msgid "Details"
+msgstr ""
+
+#: includes/post-type/post-functions.php:12
+msgid "Boats"
+msgstr ""
+
+#: includes/post-type/post-functions.php:16
+#, fuzzy
+msgid "Edit Boats"
+msgstr "Editar Detalhes"
+
+#: includes/post-type/post-functions.php:17
+#, fuzzy
+msgid "Search Boats"
+msgstr "Pesquisar"
+
+#: includes/post-type/post-functions.php:49
+#: includes/templates/template-functions.php:97
+msgid "Model"
+msgstr "Modelos"
+
+#: includes/post-type/post-functions.php:50
+#, fuzzy
+msgid "SearchModels"
+msgstr "Pesquisar"
+
+#: includes/post-type/post-functions.php:51
+#, fuzzy
+msgid "Popular Models"
+msgstr "Modelo do parente"
+
+#: includes/post-type/post-functions.php:52
+msgid "All Models"
+msgstr "Todos Modelos"
+
+#: includes/post-type/post-functions.php:53
+msgid "Parent Model"
+msgstr "Modelo do parente"
+
+#: includes/post-type/post-functions.php:54
+msgid "Parent Model:"
+msgstr "Modelo - Parente:"
+
+#: includes/post-type/post-functions.php:55
+msgid "Edit Model"
+msgstr "Editar Modelo"
+
+#: includes/post-type/post-functions.php:56
+msgid "Update Model"
+msgstr " "
+
+#: includes/post-type/post-functions.php:57
+msgid "Add New Model"
+msgstr "Adicionar Novo Modelo"
+
+#: includes/post-type/post-functions.php:58
+msgid "New Model"
+msgstr "Novo Modelo"
+
+#: includes/post-type/post-functions.php:59
+msgid "Separate Model with commas"
+msgstr "Separe os Modelos com virgulas"
+
+#: includes/post-type/post-functions.php:60
+msgid "Add or Remove Model"
+msgstr "Adicione ou remova Modelos"
+
+#: includes/post-type/post-functions.php:61
+msgid "Choose from the most used Model"
+msgstr "Escolha entre os modelos mais frequentes"
+
+#: includes/post-type/post-functions.php:71
+msgid "team"
+msgstr ""
+
+#: includes/post-type/post-functions.php:73
+#, fuzzy
+msgid "Search team"
+msgstr "Pesquisar"
+
+#: includes/post-type/post-functions.php:75
+msgid "All Team"
+msgstr ""
+
+#: includes/post-type/post-functions.php:76
+#, fuzzy
+msgid "Parent team"
+msgstr "Modelo do parente"
+
+#: includes/post-type/post-functions.php:77
+#, fuzzy
+msgid "Parent team:"
+msgstr "Modelo - Parente:"
+
+#: includes/post-type/post-functions.php:78
+msgid "Edit team member"
+msgstr ""
+
+#: includes/post-type/post-functions.php:79
+#, fuzzy
+msgid "Update team"
+msgstr " "
+
+#: includes/post-type/post-functions.php:80
+#, fuzzy
+msgid "Add New team member"
+msgstr "Adicione Novos Detalhes"
+
+#: includes/post-type/post-functions.php:81
+#, fuzzy
+msgid "New team"
+msgstr "Novos Detalhes"
+
+#: includes/post-type/post-functions.php:82
+#, fuzzy
+msgid "Separate team with commas"
+msgstr "Separe os Modelos com virgulas"
+
+#: includes/post-type/post-functions.php:83
+#, fuzzy
+msgid "Add or Remove team"
+msgstr "Adicione ou remova Modelos"
+
+#: includes/post-type/post-functions.php:84
+#, fuzzy
+msgid "Choose from the most used makers"
+msgstr "Selecione entre os detalhes"
+
+#: includes/post-type/post-functions.php:99
+#, fuzzy
+msgid "Search Features"
+msgstr "Novos Detalhes"
+
+#: includes/post-type/post-functions.php:100
+#, fuzzy
+msgid "Popular Features"
+msgstr "Parente - Detalhes"
+
+#: includes/post-type/post-functions.php:101
+#, fuzzy
+msgid "All Features"
+msgstr "Detalhes"
+
+#: includes/post-type/post-functions.php:102
+#, fuzzy
+msgid "Parent Item Features"
+msgstr "Parente - Detalhes"
+
+#: includes/post-type/post-functions.php:103
+msgid "Parent Features"
+msgstr "Parente - Detalhes"
+
+#: includes/post-type/post-functions.php:104
+msgid "Edit Features"
+msgstr "Editar Detalhes"
+
+#: includes/post-type/post-functions.php:105
+msgid "Update Features"
+msgstr "Atualizar Detalhes"
+
+#: includes/post-type/post-functions.php:106
+msgid "Add New Features"
+msgstr "Adicione Novos Detalhes"
+
+#: includes/post-type/post-functions.php:107
+msgid "New Features"
+msgstr "Novos Detalhes"
+
+#: includes/post-type/post-functions.php:108
+msgid "Separate Features with commas"
+msgstr "Separe os detahes com virgulas"
+
+#: includes/post-type/post-functions.php:109
+msgid "Add or Remove Features"
+msgstr "Adicione ou remova detalhes"
+
+#: includes/post-type/post-functions.php:110
+msgid "Choose from the most used Features"
+msgstr "Selecione entre os detalhes"
+
+#: includes/post-type/post-functions.php:147
+#: includes/post-type/post-functions.php:236
+msgid "Order:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:149
+#: includes/post-type/post-functions.php:239
+msgid "Order to display. For example: 1 (first), 2 (second) and so on ..."
+msgstr ""
+
+#: includes/post-type/post-functions.php:152
+#: includes/post-type/post-functions.php:244
+msgid "Profile Image:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:157
+#: includes/post-type/post-functions.php:261
+msgid "Just click the Button to Select Upload Image"
+msgstr ""
+
+#: includes/post-type/post-functions.php:163
+#: includes/post-type/post-functions.php:266
+msgid "Position:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:165
+#: includes/post-type/post-functions.php:269
+msgid "For example: Sales Manager, Agent, and so on ..."
+msgstr ""
+
+#: includes/post-type/post-functions.php:168
+#: includes/post-type/post-functions.php:274
+msgid "Phone:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:172
+#: includes/post-type/post-functions.php:281
+msgid "Email address:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:176
+#: includes/post-type/post-functions.php:288
+msgid "Skype:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:180
+#: includes/post-type/post-functions.php:295
+msgid "Facebook URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:184
+#: includes/post-type/post-functions.php:302
+msgid "Twitter URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:188
+#: includes/post-type/post-functions.php:309
+msgid "Linkedin URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:192
+#: includes/post-type/post-functions.php:316
+msgid "Youtube URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:196
+#: includes/post-type/post-functions.php:323
+msgid "Instagram URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:200
+#: includes/post-type/post-functions.php:330
+msgid "Vimeo URL:"
+msgstr ""
+
+#: includes/post-type/post-functions.php:403
+#, fuzzy
+msgid "Featured Image"
+msgstr "Barcos em Destaque"
+
+#: includes/post-type/post-functions.php:432
+msgid "Call For Price"
+msgstr "Chame-nos sobre o preço"
+
+#: includes/post-type/post-functions.php:454
+msgid "Name"
+msgstr ""
+
+#: includes/post-type/post-functions.php:455
+msgid "Description"
+msgstr ""
+
+#: includes/post-type/post-functions.php:456
+msgid "Slug"
+msgstr ""
+
+#: includes/search/search-function.php:16
+#: includes/search/search-function.php:369 includes/widgets/widgets.php:218
+msgid "Search"
+msgstr "Pesquisar"
+
+#: includes/search/search-function.php:84
+#: includes/search/search-function.php:118
+#: includes/search/search-function.php:194
+#: includes/search/search-function.php:218
+#: includes/search/search-function.php:239
+#: includes/search/search-function.php:265
+msgid "Any"
+msgstr "Todos"
+
+#: includes/search/search-function.php:112
+#: includes/templates/template-functions.php:109
+#: includes/templates/template-showroom.php:116
+#: includes/templates/template-showroom2.php:245
+msgid "Fuel"
+msgstr "Combustível"
+
+#: includes/search/search-function.php:258
+msgid "Order By"
+msgstr "Ordenar Por"
+
+#: includes/search/search-function.php:267
+msgid "Year newest first"
+msgstr ""
+
+#: includes/search/search-function.php:270
+msgid "Year oldest first"
+msgstr ""
+
+#: includes/search/search-function.php:273
+msgid "Price higher first"
+msgstr "Primeiro os Precos Mais Altos"
+
+#: includes/search/search-function.php:276
+msgid "Price lower first"
+msgstr "Primeiro os Precos Menores"
+
+#: includes/search/search-function.php:281
+msgid "Hours higher first"
+msgstr "Horas Mais Altas Primeiro"
+
+#: includes/search/search-function.php:284
+msgid "Hours lower first"
+msgstr "Horas Mais Baixas Primeiro"
+
+#: includes/search/search-function.php:290
+msgid "Mileage higher first"
+msgstr "Com Mais Milhas Primeiro"
+
+#: includes/search/search-function.php:293
+msgid "Mileage lower first"
+msgstr "Com Menos Milhas  Primeiro"
+
+#: includes/search/search-function.php:315
+msgid "Price Range"
+msgstr "Faixa de preço"
+
+#: includes/team/team.php:114
+msgid "No Team Member Added!"
+msgstr ""
+
+#: includes/templates/template-functions.php:36
+msgid "Yes"
+msgstr ""
+
+#: includes/templates/template-functions.php:38
+msgid "No"
+msgstr ""
+
+#: includes/templates/template-functions.php:83
+#: includes/templates/template-showroom.php:110
+#: includes/templates/template-showroom1.php:120
+#: includes/templates/template-showroom2.php:239
+#: includes/templates/template-showroom3.php:269
+#: includes/widgets/widgets.php:70 includes/widgets/widgets.php:153
+msgid "Call for Price"
+msgstr "Chame-nos sobre o preço"
+
+#: includes/templates/template-functions.php:112
+msgid "Cond"
+msgstr "Cond"
+
+#: includes/templates/template-functions.php:113
+#: includes/templates/template-showroom.php:114
+#: includes/templates/template-showroom1.php:126
+#: includes/templates/template-showroom2.php:243
+#: includes/templates/template-showroom3.php:274
+msgid "HP"
+msgstr ""
+
+#: includes/templates/template-showroom.php:117
+#: includes/templates/template-showroom2.php:246
+msgid "Transmission"
+msgstr ""
+
+#: includes/templates/template-showroom.php:142
+#: includes/templates/template-showroom1.php:181
+#: includes/templates/template-showroom2.php:268
+#: includes/templates/template-showroom3.php:322
+#: includes/templates/template-single.php:37
+msgid "Back"
+msgstr ""
+
+#: includes/templates/template-showroom.php:143
+#: includes/templates/template-showroom1.php:182
+#: includes/templates/template-showroom2.php:269
+#: includes/templates/template-showroom3.php:323
+msgid "Onward"
+msgstr ""
+
+#: includes/templates/template-showroom.php:153
+#: includes/templates/template-showroom1.php:192
+#: includes/templates/template-showroom2.php:278
+#: includes/templates/template-showroom3.php:332
+msgid "Not Found !"
+msgstr ""
+
+#: includes/templates/template-showroom1.php:169
+#: includes/templates/template-showroom3.php:313
+msgid "View"
+msgstr ""
+
+#: includes/templates/template-single.php:51
+msgid "Contact Us"
+msgstr ""
+
+#: includes/widgets/widgets.php:15
+#, fuzzy
+msgid "A list of Recent boats"
+msgstr "Adicionar recentes barcos"
+
+#: includes/widgets/widgets.php:41
+msgid "New Arrivals"
+msgstr "Novos Barcos"
+
+#: includes/widgets/widgets.php:93
+#, fuzzy
+msgid "A list of Featured boat-s"
+msgstr "Adicionar barcos em destaque "
+
+#: includes/widgets/widgets.php:117
+#, fuzzy
+msgid "Featured boats"
+msgstr "Barcos em Destaque"
+
+#: includes/widgets/widgets.php:193
+#, fuzzy
+msgid "Search boats"
+msgstr "Pesquisar"
+
+#: includes/widgets/widgets.php:205
+msgid "Title"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:16
+msgid "Choose your currency, metric system and so on."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:21
+msgid "Currency"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:40
+msgid "Miles - Km - Hours"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:42
+msgid "Miles"
+msgstr "Milhas"
+
+#: settings/options/plugin_options_tabbed.php:43
+msgid "Kms"
+msgstr "Kms"
+
+#: settings/options/plugin_options_tabbed.php:44
+msgid "Hours"
+msgstr "Horas"
+
+#: settings/options/plugin_options_tabbed.php:50
+#, fuzzy
+msgid "Liters - Gallons"
+msgstr "Galoes"
+
+#: settings/options/plugin_options_tabbed.php:52
+msgid "Liters"
+msgstr "Litros"
+
+#: settings/options/plugin_options_tabbed.php:53
+msgid "Gallons"
+msgstr "Galoes"
+
+#: settings/options/plugin_options_tabbed.php:59
+#, fuzzy
+msgid "Feet - Meters"
+msgstr "Metros"
+
+#: settings/options/plugin_options_tabbed.php:61
+msgid "Feet"
+msgstr "Pes"
+
+#: settings/options/plugin_options_tabbed.php:62
+msgid "Meters"
+msgstr "Metros"
+
+#: settings/options/plugin_options_tabbed.php:68
+#, fuzzy
+msgid "How many boats would you like to display per page?"
+msgstr "Quantos botes deseja exibir por pagina."
+
+#: settings/options/plugin_options_tabbed.php:92
+msgid "Remove Sidebar from Search Result Page"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:101
+msgid "Replace the Wordpress Gallery with Flexslider Gallery"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:110
+msgid "Use thumbnails size 2:1 or 4:3 ?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:119
+msgid "Enable Contact Form in Single Product Page?"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:128
+msgid ""
+"Fill out your contact email to receive email from your Contact Form at "
+"bottom of the individual boat page."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:133
+msgid "In Show Room Page, use Gallery or List View Template"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:140
+msgid ""
+"Customize your Search Options. Choose the fields to show on the front end "
+"search bar."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:145
+#: settings/options/plugin_options_tabbed.php:184
+msgid "Show the Fuel type control"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:154
+#: settings/options/plugin_options_tabbed.php:193
+msgid "Show the Year control"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:163
+msgid "Show the Price slider"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:172
+#: settings/options/plugin_options_tabbed.php:211
+msgid "Show the Order By Control"
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:179
+msgid ""
+"Customize your Search Widget Options. Choose the fields to show on the "
+"Search Widget."
+msgstr ""
+
+#: settings/options/plugin_options_tabbed.php:202
+msgid "Show the Price control"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Search Cars"
+#~ msgstr "Pesquisar"
+
+#~ msgid "Make."
+#~ msgstr "Fabricante"
+
+#~ msgid "Lengh Of Boat in "
+#~ msgstr "Tamanho do Barco"
+
+#~ msgid "Only numbers. No point, no comma."
+#~ msgstr "Use somente numeros. Sem pontos ou virgulas."
+
+#~ msgid "Fuel Capacity in "
+#~ msgstr "Capacidade do reservatorio de combustivel"
+
+#~ msgid "Passenger Capacity. Only numbers."
+#~ msgstr "Capacidade (passageiros). c"
+
+#~ msgid "What kind of Boat is this"
+#~ msgstr "Tipo de Barco"
+
+#~ msgid "Engine eg: Johnson"
+#~ msgstr "Motor exemplo: Johnson"
+
+#~ msgid "Color of the Interior"
+#~ msgstr "Interior Cor"
+
+#~ msgid "Interior Material"
+#~ msgstr "Material Interno"
+
+#~ msgid "Parent Features:"
+#~ msgstr "Detalhes - Parente"
+
+#~ msgid "Engine"
+#~ msgstr "Motor"
+
+#, fuzzy
+#~ msgid "Fuel Capacity"
+#~ msgstr "Capacidade do reservatorio de combustivel"
+
+#~ msgid "Lenght"
+#~ msgstr "Tamanho"
+
+#, fuzzy
+#~ msgid "Passenger Capacity"
+#~ msgstr "Capacidade (passageiros). c"
+
+#, fuzzy
+#~ msgid "Interior Color"
+#~ msgstr "Material Interno"
+
+#~ msgid "Options"
+#~ msgstr "Opçoes"
+
+#~ msgid "Next Page"
+#~ msgstr "Proxima Pagina"
+
+#~ msgid "Previous Page"
+#~ msgstr "Pagina Anterior"
